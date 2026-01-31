@@ -1,0 +1,5 @@
+Analyze called for C:\project\BTP_Code_Archeologist\test_data\complex
+Analyze called for C:\project\BTP_Code_Archeologist\test_data\complex
+Analyze called for C:\project\BTP_Code_Archeologist\test_data\demo
+Analyze called for C:\project\BTP_Code_Archeologist\test_data\demo
+Analyze called for C:\project\BTP_Code_Archeologist\test_data\demo
